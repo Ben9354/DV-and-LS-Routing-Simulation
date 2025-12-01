@@ -4,3 +4,4 @@ Both programs have been tested using the test files (topology, messages, and cha
 However, the order of the destinations for per node in the routing table have been neglected.
 For DistanceVector, the destination path for each node it lists in the message output is only the nextHop as intended, since each node should only know the next hop in which it should route packets to.
 
+Prompt: https://www.studocu.com/en-us/document/university-of-illinois-at-urbana-champaign/communication-networks/uiuc-cs438-2024-spring-mp3/116329154
